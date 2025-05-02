@@ -62,8 +62,7 @@ This is a full-stack expense tracker application built with Node.js for the back
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/manthanank/expense-tracker-app.git
-    cd expense-tracker-app/backend
+    git clone https://github.com/Pushpalatha0422/Monthly-Budget-Planner
     ```
 
 2. Install dependencies:
@@ -152,17 +151,10 @@ This is a full-stack expense tracker application built with Node.js for the back
 9. **Get AI Insights**: Navigate to the insights section to get AI-powered analysis of your spending habits, including top spending categories, trends, anomalies, and personalized saving suggestions.
 10. **View Charts**: Explore visual representations of your spending patterns.
 
-## Deployment
-
-The application is deployed on Vercel at: [https://expense-tracker-app-manthanank.vercel.app/](https://expense-tracker-app-manthanank.vercel.app/)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For questions or feedback, please contact:
 
-- Email: [manthan.ank@gmail.com](mailto:manthan.ank@gmail.com)
-- GitHub: [manthanank](https://github.com/manthanank)
+- Email: [pushpa22042005@gmail.com](mailto:pushpa22042005@gmail.com)
+- GitHub: [Pushpalatha0422](https://github.com/Pushpalatha0422)
